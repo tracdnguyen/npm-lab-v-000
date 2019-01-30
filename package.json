@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/tracdnguyen/npm-lab-v-000#readme",
   "dependencies": {
-    "learn-browser": "^0.1.17",
     "moment": "^2.22.2"
   }
 }
